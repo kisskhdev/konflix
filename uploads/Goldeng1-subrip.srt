@@ -1,0 +1,3013 @@
+1
+00:00:08,905 --> 00:00:11,908
+[rain pattering]
+
+2
+00:00:15,620 --> 00:00:17,205
+[Hocheol] Hey, who are you?
+
+3
+00:00:18,707 --> 00:00:21,877
+You fucking bastard!
+Actually, actually, you know what?
+
+4
+00:00:21,960 --> 00:00:23,378
+Forget it.
+
+5
+00:00:23,462 --> 00:00:25,631
+I don't really care who you are.
+It doesn't matter.
+
+6
+00:00:26,298 --> 00:00:27,799
+And I won't try to find out, either.
+
+7
+00:00:29,176 --> 00:00:32,846
+Just give me back the van.
+Turn around and come back.
+
+8
+00:00:32,929 --> 00:00:34,598
+I'm gonna find you tonight anyway.
+
+9
+00:00:34,681 --> 00:00:36,600
+[scared breathing]
+
+10
+00:00:36,683 --> 00:00:37,934
+[Hocheol] Then you're done.
+
+11
+00:00:40,729 --> 00:00:43,023
+[panicked breathing]
+
+12
+00:00:50,614 --> 00:00:52,282
+[distant thunder cracks]
+
+13
+00:00:56,453 --> 00:00:59,456
+[grunting and whimpering]
+
+14
+00:01:18,684 --> 00:01:21,853
+[♪ tense music]
+
+15
+00:01:21,937 --> 00:01:26,650
+HAPPY! GANGWON
+
+16
+00:02:10,527 --> 00:02:15,741
+EPISODE 1
+BETTING
+
+17
+00:02:28,879 --> 00:02:31,673
+[doorbell rings quietly]
+
+18
+00:02:32,424 --> 00:02:33,467
+[grunts]
+
+19
+00:02:35,427 --> 00:02:38,430
+[doorbell rings quietly]
+
+20
+00:02:39,222 --> 00:02:41,683
+[groans]
+
+21
+00:02:43,143 --> 00:02:44,770
+[door beeps]
+
+22
+00:02:45,562 --> 00:02:48,064
+[Landlady] Hi there.
+Is the captain at home?
+
+23
+00:02:48,815 --> 00:02:51,693
+Oh, he's away for work right now.
+
+24
+00:02:51,777 --> 00:02:54,154
+Oh, is that right?
+
+25
+00:02:55,405 --> 00:02:59,868
+It's just, well, the rent.
+It's really overdue.
+
+26
+00:02:59,951 --> 00:03:02,621
+It's been over three months now, right?
+
+27
+00:03:02,704 --> 00:03:05,165
+You know, we're not just talking about one
+or two months.
+
+28
+00:03:05,248 --> 00:03:06,750
+We're talking about three months.
+
+29
+00:03:06,833 --> 00:03:10,545
+Look, if he's going through something,
+I understand, but...
+
+30
+00:03:10,629 --> 00:03:11,630
+[inhales sharply]
+
+31
+00:03:13,006 --> 00:03:15,008
+[Landlady] He could at least tell me
+what's going on.
+
+32
+00:03:15,091 --> 00:03:16,092
+[exhales]
+
+33
+00:03:17,135 --> 00:03:19,763
+Instead, he ignores all
+my calls and my texts.
+
+34
+00:03:19,846 --> 00:03:22,265
+You two aren't having any problems
+or anything, are you?
+
+35
+00:03:22,933 --> 00:03:24,851
+I know I shouldn't say this to you.
+
+36
+00:03:24,935 --> 00:03:26,269
+Tell him for me?
+
+37
+00:03:30,232 --> 00:03:31,942
+CONNECTING CALL...
+DOKYUNG
+
+38
+00:03:32,025 --> 00:03:35,028
+[phone trilling]
+
+39
+00:03:35,529 --> 00:03:38,198
+[Operator] Your call has been forwarded
+to an automated voice messaging...
+
+40
+00:03:38,281 --> 00:03:39,699
+[phone beeps]
+
+41
+00:03:41,076 --> 00:03:45,580
+YOU'RE COMING TODAY, RIGHT?
+
+42
+00:03:45,664 --> 00:03:49,209
+[Man on TV] You're going
+to absolutely love this trip.
+
+43
+00:03:49,292 --> 00:03:53,505
+THE LANDLADY CAME BY ABOUT THE RENT.
+
+44
+00:03:53,588 --> 00:03:58,009
+[Man on TV] Home to the Mona Lisa.
+This is the best that Europe has to offer.
+
+45
+00:03:58,093 --> 00:04:04,474
+TRAVEL SAFE. SEE YOU LATER
+
+46
+00:04:04,558 --> 00:04:08,186
+[Woman on TV] Enjoy an easy, rewarding,
+and comfortable experience.
+
+47
+00:04:08,270 --> 00:04:09,437
+And for those of you...
+
+48
+00:04:09,521 --> 00:04:12,232
+ARRIVING AT 3:00 O'CLOCK
+
+49
+00:04:12,315 --> 00:04:13,567
+[machine beeping]
+
+50
+00:04:14,568 --> 00:04:16,778
+I'm sorry but this card was declined.
+
+51
+00:04:16,861 --> 00:04:18,071
+Are you sure?
+
+52
+00:04:18,154 --> 00:04:19,739
+Could you just try it one more time,
+please?
+STYLE
+::cue()
+
+53
+00:04:22,033 --> 00:04:23,118
+[machine beeping]
+
+54
+00:04:25,245 --> 00:04:26,246
+It's not going through.
+
+55
+00:04:27,080 --> 00:04:30,417
+Uh, how much is the total?
+
+56
+00:04:30,500 --> 00:04:32,460
+[Female Automated Voice] Welcome.
+
+57
+00:04:32,544 --> 00:04:35,797
+Please press the number of the transaction
+you would like to complete.
+
+58
+00:04:35,881 --> 00:04:37,424
+Please enter the amount you...
+[button clicks]
+
+59
+00:04:37,507 --> 00:04:38,633
+NOTICE: INSUFFICIENT ACCOUNT BALANCE.
+AVAILABLE BALANCE: KRW 0.
+
+60
+00:04:38,717 --> 00:04:40,010
+PLEASE CHECK YOUR AVAILABLE BALANCE
+BEFORE PROCEEDING WITH THE TRANSACTION.
+
+61
+00:04:40,093 --> 00:04:41,553
+[Female Automated Voice]
+Please take your card.
+
+62
+00:04:46,182 --> 00:04:47,851
+[distant traffic passing]
+
+63
+00:04:49,102 --> 00:04:52,105
+[♪ melancholic music]
+
+64
+00:05:04,534 --> 00:05:08,246
+YOU'RE COMING TODAY, RIGHT?
+TRAVEL SAFE. SEE YOU LATER
+
+65
+00:05:09,873 --> 00:05:10,874
+[exhales sharply]
+
+66
+00:05:11,708 --> 00:05:12,834
+[cell phone vibrating]
+
+67
+00:05:15,587 --> 00:05:18,006
+[Dokyung] See you soon.
+I love you.
+
+68
+00:05:18,632 --> 00:05:19,633
+[exhales]
+
+69
+00:05:21,760 --> 00:05:23,261
+[Heeju] Love you.
+
+70
+00:05:24,638 --> 00:05:27,390
+[inhales and exhales deeply]
+
+71
+00:05:28,308 --> 00:05:31,311
+[jet engines roaring]
+
+72
+00:05:34,356 --> 00:05:36,274
+INTERNATIONAL ARRIVALS
+
+73
+00:05:36,358 --> 00:05:39,861
+[indistinct chatter]
+
+74
+00:05:44,157 --> 00:05:46,201
+A404 THAILAND/SUVARNABHUMI
+15:00 ARRIVED
+
+75
+00:05:46,284 --> 00:05:48,078
+[Female Announcer] Attention, passengers.
+
+76
+00:05:48,161 --> 00:05:51,539
+Final boarding call
+for flight 407 to Tokyo.
+
+77
+00:05:51,623 --> 00:05:53,875
+[indistinct chatter]
+
+78
+00:06:04,552 --> 00:06:07,681
+[Cheoljung] Hi. I have a question.
+Do you know this woman?
+
+79
+00:06:07,764 --> 00:06:09,099
+[Cheoljung] She works here.
+
+80
+00:06:09,182 --> 00:06:10,475
+[quiet gasping]
+
+81
+00:06:13,770 --> 00:06:16,773
+[machines rattling]
+
+82
+00:06:18,483 --> 00:06:21,027
+[Female Security Officer A] Yes,
+we were able to make note
+
+83
+00:06:21,111 --> 00:06:22,570
+of this shipment but we still have...
+
+84
+00:06:22,654 --> 00:06:23,697
+[machine beeping]
+
+85
+00:06:23,780 --> 00:06:24,948
+X-RAY WARNING: WHEN THE EQUIPMENT
+IS IN OPERATION,
+
+86
+00:06:25,031 --> 00:06:26,324
+DO NOT PLACE ANY PART OF YOUR BODY
+INSIDE UNDER ANY CIRCUMSTANCES
+
+87
+00:06:26,408 --> 00:06:27,659
+NO UNAUTHORIZED ENTRY
+
+88
+00:06:27,742 --> 00:06:29,411
+[Yujin] Belt two, unload the cargo.
+
+89
+00:06:31,287 --> 00:06:32,539
+[Female Security Officer C]
+Which one is it?
+
+90
+00:06:32,622 --> 00:06:36,292
+[alarm ringing]
+
+91
+00:06:36,376 --> 00:06:37,377
+[claps]
+
+92
+00:06:37,460 --> 00:06:39,629
+[Female Security Officer A gasps]
+That's right!
+
+93
+00:06:39,713 --> 00:06:41,131
+Aren't you off this weekend?
+
+94
+00:06:41,214 --> 00:06:44,134
+We're all going to Sokcho to check out
+this hot new night club.
+
+95
+00:06:44,217 --> 00:06:45,760
+You should come with us!
+
+96
+00:06:45,844 --> 00:06:47,262
+I've got things to do at home.
+
+97
+00:06:47,345 --> 00:06:48,972
+[Female Security Officer B]
+Oh, come on. No, you don't.
+
+98
+00:06:49,639 --> 00:06:51,850
+You can't just be cooped up here all
+the time.
+
+99
+00:06:51,933 --> 00:06:53,685
+[Female Security Officer B]
+You gotta go out and have fun, too.
+
+100
+00:06:53,768 --> 00:06:55,645
+Sorry, guys.
+I'll join you on the next one.
+
+101
+00:06:55,729 --> 00:06:57,647
+[all laughing]
+She plays hard to get, doesn't she?
+
+102
+00:06:57,731 --> 00:06:59,482
+[knocking]
+
+103
+00:06:59,566 --> 00:07:00,817
+You're not here to fool around.
+
+104
+00:07:04,779 --> 00:07:05,989
+[Yujin] Not without me, you aren't.
+
+105
+00:07:06,072 --> 00:07:06,823
+[all giggling]
+
+106
+00:07:06,906 --> 00:07:08,658
+[Female Security Officer A]
+Of course you have to come with us!
+
+107
+00:07:08,742 --> 00:07:09,576
+Where would we go without you?
+
+108
+00:07:09,659 --> 00:07:10,702
+So where are we going?
+
+109
+00:07:10,785 --> 00:07:12,996
+[Female Security Officer B]
+We're gonna go clubbing, duh!
+
+110
+00:07:13,079 --> 00:07:14,164
+Wait, Heeju.
+
+111
+00:07:14,247 --> 00:07:17,041
+-Can we talk for a minute?
+-Oh, okay.
+
+112
+00:07:23,715 --> 00:07:24,924
+Earlier today...
+
+113
+00:07:25,675 --> 00:07:27,552
+This guy came by and said he
+was your uncle.
+
+114
+00:07:28,636 --> 00:07:32,599
+[Yujin] He showed me an old school photo
+of you and asked if I knew you.
+
+115
+00:07:32,682 --> 00:07:35,769
+He said that an acquaintance of his saw
+you working here in your security uniform.
+
+116
+00:07:36,811 --> 00:07:39,022
+So what did you tell him?
+
+117
+00:07:39,105 --> 00:07:40,356
+That no one here looks like that.
+
+118
+00:07:41,733 --> 00:07:44,444
+If he doesn't know,
+there's gotta be a reason, right?
+
+119
+00:07:45,195 --> 00:07:46,404
+Is he really your uncle?
+
+120
+00:07:47,739 --> 00:07:48,823
+No, he's not.
+
+121
+00:07:50,408 --> 00:07:51,409
+I thought so.
+
+122
+00:07:52,702 --> 00:07:55,121
+He just seems kinda odd.
+
+123
+00:07:57,499 --> 00:07:58,792
+[Yujin] Who was he?
+
+124
+00:07:58,875 --> 00:08:01,044
+Did you get mixed up with a loan shark?
+
+125
+00:08:01,127 --> 00:08:04,339
+Uh, no.
+It's nothing like that.
+
+126
+00:08:04,422 --> 00:08:05,423
+Then who was it?
+
+127
+00:08:06,174 --> 00:08:07,842
+Tell me and maybe I can help you.
+
+128
+00:08:07,926 --> 00:08:10,428
+You hardly ever talk about yourself.
+
+129
+00:08:11,221 --> 00:08:13,223
+I'm sorry.
+Can I ask...
+
+130
+00:08:14,432 --> 00:08:18,728
+If that man ever comes back,
+could you tell him I don't work here?
+
+131
+00:08:19,646 --> 00:08:20,730
+I can do that.
+
+132
+00:08:22,774 --> 00:08:25,360
+Just be careful outside of work, too.
+
+133
+00:08:25,902 --> 00:08:27,779
+[Yujin] Word of advice.
+
+134
+00:08:27,862 --> 00:08:30,865
+[Yujin] If you didn't do anything wrong,
+don't run away.
+
+135
+00:08:30,949 --> 00:08:35,245
+Once you start running from guys like him,
+you'll end up running your whole life.
+
+136
+00:08:38,289 --> 00:08:39,290
+Yes.
+
+137
+00:08:40,124 --> 00:08:41,626
+I appreciate it, ma'am.
+STYLE
+::cue()
+
+138
+00:08:42,710 --> 00:08:45,713
+[traffic bustling]
+
+139
+00:08:46,548 --> 00:08:49,801
+[engines revving]
+
+140
+00:08:49,884 --> 00:08:52,846
+[car horns honking]
+
+141
+00:09:39,392 --> 00:09:40,768
+[Woojin whistling]
+
+142
+00:09:40,852 --> 00:09:42,687
+[exhales]
+What do you guys want?
+
+143
+00:09:43,813 --> 00:09:46,107
+You just had to come all this way here
+to find me? Really?
+
+144
+00:09:47,942 --> 00:09:48,943
+You're a difficult man to reach.
+
+145
+00:09:56,910 --> 00:09:58,453
+Look, I always repay Geumseong back,
+don't I?
+
+146
+00:09:59,287 --> 00:10:00,371
+I heard it's been a year.
+
+147
+00:10:04,876 --> 00:10:06,461
+Let's talk it over in Jeongsan.
+
+148
+00:10:08,046 --> 00:10:10,173
+Well, let's say you go back
+to Jeongsan now.
+
+149
+00:10:10,924 --> 00:10:14,052
+[Woojin] The boys here will have
+to clean you out.
+
+150
+00:10:15,011 --> 00:10:17,305
+Your organs.
+They're healthy, right?
+
+151
+00:10:18,306 --> 00:10:19,307
+What?
+
+152
+00:10:19,390 --> 00:10:21,017
+It's a joke, man. A joke.
+
+153
+00:10:21,684 --> 00:10:23,061
+[Woojin] We wouldn't do that to you.
+
+154
+00:10:23,645 --> 00:10:24,646
+We'll be partners.
+
+155
+00:10:25,230 --> 00:10:26,814
+Forever and ever.
+
+156
+00:10:32,028 --> 00:10:33,196
+What do you want me to do now?
+
+157
+00:10:34,447 --> 00:10:35,448
+Hold your questions.
+
+158
+00:10:36,616 --> 00:10:39,244
+First up, we need
+to check your collateral.
+
+159
+00:10:41,996 --> 00:10:43,122
+[exhales sharply]
+
+160
+00:10:43,206 --> 00:10:46,834
+[phone buzzing]
+
+161
+00:10:46,918 --> 00:10:48,211
+Where have you been?
+
+162
+00:10:48,294 --> 00:10:49,545
+[Dokyung] I'm still in Bangkok.
+
+163
+00:10:50,255 --> 00:10:51,256
+What?
+
+164
+00:10:52,298 --> 00:10:54,050
+-[Heeju] What are you still doing there?
+-I'll tell you later.
+
+165
+00:10:54,133 --> 00:10:55,468
+Where are you now?
+Are you home?
+
+166
+00:10:56,302 --> 00:10:57,845
+[Heeju] Yeah. I just walked in.
+
+167
+00:10:57,929 --> 00:10:59,180
+Get out of the house right now, Heeju.
+
+168
+00:10:59,264 --> 00:11:01,474
+What? Why?
+
+169
+00:11:01,557 --> 00:11:03,393
+[Dokyung] There's no time.
+Just get out right now.
+
+170
+00:11:03,476 --> 00:11:07,230
+Grab whatever you need, clothes, photos,
+and get out of there.
+
+171
+00:11:07,313 --> 00:11:09,232
+Some people are headed
+over there right now.
+
+172
+00:11:10,233 --> 00:11:11,734
+They can't know that you're there.
+
+173
+00:11:11,818 --> 00:11:13,444
+Some people? Who?
+
+174
+00:11:13,528 --> 00:11:15,822
+[Dokyung] There's no time to explain!
+Just go!
+
+175
+00:11:15,905 --> 00:11:17,949
+-[Dokyung] Call me after you've left.
+-What are you talking about?
+
+176
+00:11:18,032 --> 00:11:19,575
+H-hello?
+
+177
+00:11:26,708 --> 00:11:29,544
+[erratic breathing]
+
+178
+00:11:29,627 --> 00:11:31,254
+Pictures.
+
+179
+00:11:32,505 --> 00:11:34,048
+Oh, my passport.
+
+180
+00:11:34,757 --> 00:11:35,883
+Got it.
+
+181
+00:11:36,301 --> 00:11:37,885
+[doorbell ringing]
+[gasps]
+
+182
+00:11:37,969 --> 00:11:39,804
+[knocking on door]
+
+183
+00:11:41,556 --> 00:11:43,141
+[ringing and knocking continues]
+
+184
+00:11:45,143 --> 00:11:47,395
+[beeping]
+
+185
+00:11:49,314 --> 00:11:51,983
+[Thug A] What the fuck?
+Someone lives here.
+
+186
+00:11:52,483 --> 00:11:53,651
+[Thug B] Ah, dammit.
+
+187
+00:11:53,735 --> 00:11:56,612
+[Thug C] Hello? Is anyone here?
+
+188
+00:11:57,238 --> 00:11:59,574
+[Thug A] Look around.
+What is this?
+
+189
+00:11:59,657 --> 00:12:01,159
+[exhales sharply]
+
+190
+00:12:01,242 --> 00:12:03,536
+-Go check the balcony.
+-Ah, shit.
+STYLE
+::cue()
+
+191
+00:12:08,624 --> 00:12:09,876
+Nothing here.
+
+192
+00:12:10,585 --> 00:12:11,711
+[Thug C] You checked everything?
+
+193
+00:12:12,295 --> 00:12:16,215
+[Thug C] Ah, shit.
+Where the hell are they, dammit?
+
+194
+00:12:16,299 --> 00:12:17,717
+[Thug A] Did you go in there?
+
+195
+00:12:17,800 --> 00:12:19,510
+[groans]
+
+196
+00:12:19,594 --> 00:12:23,639
+[whimpering]
+
+197
+00:12:26,768 --> 00:12:30,063
+[breathing erratically]
+
+198
+00:12:36,736 --> 00:12:39,197
+[cell phone vibrates]
+
+199
+00:12:40,490 --> 00:12:41,491
+[gasps]
+
+200
+00:12:41,574 --> 00:12:43,409
+-Heeju, where are you right now?
+-[Heeju] I'm on the bus.
+
+201
+00:12:44,243 --> 00:12:45,370
+[exhales sharply]
+
+202
+00:12:45,453 --> 00:12:47,038
+[Heeju] You need to tell me
+what's going on.
+
+203
+00:12:47,121 --> 00:12:48,373
+What do those people want with you?
+
+204
+00:12:48,456 --> 00:12:50,208
+[Dokyung] Don't worry about them.
+It's nothing.
+
+205
+00:12:50,291 --> 00:12:52,627
+You don't think it's a big deal that
+a group of strange men
+
+206
+00:12:52,710 --> 00:12:53,961
+just barged in through the door?
+
+207
+00:12:54,754 --> 00:12:55,755
+[exhales]
+
+208
+00:12:57,173 --> 00:12:59,550
+Talk to me.
+What's going on?
+
+209
+00:12:59,634 --> 00:13:01,219
+I already told you it's okay.
+
+210
+00:13:01,302 --> 00:13:02,887
+You don't need to worry about it.
+
+211
+00:13:02,970 --> 00:13:04,639
+[Heeju] Your credit card has been frozen,
+
+212
+00:13:04,722 --> 00:13:06,933
+and I learned your rent
+is overdue by three months.
+
+213
+00:13:07,767 --> 00:13:09,977
+The landlady came by asking for you.
+
+214
+00:13:10,853 --> 00:13:13,606
+[Heeju] Dokyung, are you still gambling?
+
+215
+00:13:14,941 --> 00:13:16,651
+Did you use a loan shark?
+
+216
+00:13:16,734 --> 00:13:20,655
+[Dokyung] Yeah, I went to a casino
+with my friends last year.
+
+217
+00:13:21,781 --> 00:13:23,157
+How much?
+
+218
+00:13:23,241 --> 00:13:24,867
+[Heeju] I have a little bit
+of money saved.
+
+219
+00:13:25,618 --> 00:13:26,619
+[exhales sharply]
+
+220
+00:13:26,702 --> 00:13:29,288
+It wasn't much.
+And I paid it off.
+
+221
+00:13:29,372 --> 00:13:31,290
+[Heeju] Then why did those people come?
+
+222
+00:13:31,374 --> 00:13:33,209
+[Dokyung] I just paid them back now.
+
+223
+00:13:34,627 --> 00:13:37,171
+Well then, can I just go back?
+
+224
+00:13:38,172 --> 00:13:40,049
+No, stay at a hotel.
+I'll be there tomorrow.
+
+225
+00:13:40,883 --> 00:13:43,052
+I know I was supposed to be back today.
+
+226
+00:13:43,136 --> 00:13:46,180
+But there were some complications
+that came up.
+
+227
+00:13:46,264 --> 00:13:48,808
+Basically, this chairman I know
+who lives in Cambodia.
+
+228
+00:13:48,891 --> 00:13:49,976
+He's Korean.
+
+229
+00:13:50,059 --> 00:13:52,854
+[Dokyung] And one of his employees
+actually passed away in
+
+230
+00:13:52,937 --> 00:13:54,188
+an accident over here.
+
+231
+00:13:54,814 --> 00:13:57,316
+We need to ship his body back
+to Korea by tomorrow.
+
+232
+00:13:58,818 --> 00:14:01,320
+But you know how that stuff
+can be complicated.
+
+233
+00:14:01,404 --> 00:14:03,364
+So he called me to ask
+if I could help out.
+
+234
+00:14:03,447 --> 00:14:06,367
+[Heeju] I see.
+Are you sure everything's okay?
+
+235
+00:14:07,368 --> 00:14:08,911
+Nothing will happen to us, right?
+
+236
+00:14:09,996 --> 00:14:12,623
+[Dokyung] Everything will be fine.
+Just trust me.
+
+237
+00:14:13,541 --> 00:14:15,042
+But Heeju?
+
+238
+00:14:15,126 --> 00:14:17,086
+I do have one small favor to ask.
+
+239
+00:14:19,547 --> 00:14:21,883
+The, uh, casket,
+the one I'm shipping tomorrow...
+
+240
+00:14:22,717 --> 00:14:25,761
+Would you be able to handle
+the airport security check?
+
+241
+00:14:25,845 --> 00:14:27,096
+I'm off tomorrow.
+
+242
+00:14:27,180 --> 00:14:28,973
+[Dokyung] But you can swap shifts
+with someone.
+
+243
+00:14:29,056 --> 00:14:32,101
+I need you to make sure the casket
+gets past the checkpoint, okay?
+
+244
+00:14:32,185 --> 00:14:36,397
+And if the scanners should see something,
+just let it through.
+
+245
+00:14:36,480 --> 00:14:37,899
+[Heeju] Why? What's in it?
+
+246
+00:14:37,982 --> 00:14:39,650
+[Dokyung] I'm just saying,
+in case something goes wrong.
+
+247
+00:14:39,734 --> 00:14:42,445
+Okay. What could go wrong?
+
+248
+00:14:44,280 --> 00:14:45,281
+Nothing.
+
+249
+00:14:47,158 --> 00:14:48,159
+Trust me, Heeju.
+
+250
+00:14:50,161 --> 00:14:51,787
+Do what I tell you to do.
+
+251
+00:14:51,871 --> 00:14:53,873
+[Dokyung] Shoot, the chairman is here.
+
+252
+00:14:53,956 --> 00:14:56,292
+I need to go.
+Please don't forget.
+
+253
+00:14:56,834 --> 00:14:58,127
+Flight A404.
+
+254
+00:14:58,211 --> 00:15:01,839
+It's departing from Siem Riep
+at 7:00 A.M. tomorrow, 'kay?
+
+255
+00:15:03,424 --> 00:15:04,550
+Love you.
+
+256
+00:15:04,634 --> 00:15:05,968
+[phone clicks]
+
+257
+00:15:06,052 --> 00:15:07,803
+Yeah, love you-
+[phone beeps]
+
+258
+00:15:11,390 --> 00:15:13,351
+[exhales sharply]
+
+259
+00:15:20,524 --> 00:15:23,527
+[♪ suspenseful music]
+STYLE
+::cue()
+
+260
+00:15:28,574 --> 00:15:31,577
+[jet engine roaring]
+
+261
+00:15:33,496 --> 00:15:36,499
+[footsteps echoing]
+
+262
+00:15:50,179 --> 00:15:51,555
+[nervous chuckle]
+
+263
+00:15:51,639 --> 00:15:53,474
+-Hi, you guys.
+-[Female Security Officer A] Hi, Heeju!
+
+264
+00:15:53,557 --> 00:15:55,268
+-Hi.
+-Come on. Just ask her.
+
+265
+00:15:56,143 --> 00:15:57,395
+Weren't you off today?
+
+266
+00:15:57,478 --> 00:16:00,439
+Uh, Yerim and I changed shifts.
+
+267
+00:16:00,523 --> 00:16:01,732
+Really? Why? Is she okay?
+
+268
+00:16:01,816 --> 00:16:02,817
+I don't know.
+
+269
+00:16:03,234 --> 00:16:05,695
+[machine beeps]
+Weird. It's not like her to miss a shift.
+
+270
+00:16:05,778 --> 00:16:07,488
+[Female Security Officer C] Right?
+Have you heard anything?
+
+271
+00:16:07,571 --> 00:16:10,574
+[machines clacking]
+
+272
+00:16:10,658 --> 00:16:13,661
+[machine beeping]
+
+273
+00:16:15,496 --> 00:16:17,581
+[inhales and exhales]
+
+274
+00:16:17,665 --> 00:16:20,251
+[♪ tense, percussive music]
+
+275
+00:16:25,256 --> 00:16:26,632
+RADIATION CONTROLLED AREA
+[OPERATING FACILITY]
+
+276
+00:16:26,716 --> 00:16:28,009
+NO UNAUTHORIZED ENTRY
+
+277
+00:16:28,843 --> 00:16:32,430
+[thumping]
+
+278
+00:16:32,513 --> 00:16:35,474
+[machine belt groaning]
+
+279
+00:16:40,354 --> 00:16:43,357
+[coffin creaks]
+
+280
+00:17:14,764 --> 00:17:17,975
+[machine beeping]
+
+281
+00:17:19,435 --> 00:17:21,020
+What's going on with belt two?
+
+282
+00:17:21,854 --> 00:17:24,899
+It's all the metal decorations attached
+to the casket.
+
+283
+00:17:32,114 --> 00:17:33,699
+[Yujin] Heeju.
+
+284
+00:17:34,867 --> 00:17:35,993
+Let it go through.
+
+285
+00:17:37,119 --> 00:17:38,120
+Okay.
+
+286
+00:17:41,540 --> 00:17:43,209
+[belt clanging]
+
+287
+00:17:46,754 --> 00:17:48,506
+[casket groaning]
+
+288
+00:17:53,010 --> 00:17:56,013
+[all grunting]
+
+289
+00:17:58,474 --> 00:17:59,517
+[Thug A] One, two, three.
+
+290
+00:18:00,434 --> 00:18:03,270
+[scraping]
+
+291
+00:18:03,354 --> 00:18:05,815
+[all exhaling]
+
+292
+00:18:05,898 --> 00:18:07,316
+[belt strap pulling]
+
+293
+00:18:07,400 --> 00:18:09,652
+[buckle clicks]
+
+294
+00:18:14,699 --> 00:18:17,702
+[engines revving]
+
+295
+00:18:30,715 --> 00:18:33,718
+[Dokyung fumbling with bag]
+
+296
+00:18:34,802 --> 00:18:36,095
+Long time no see, Captain.
+
+297
+00:18:37,805 --> 00:18:40,433
+You haven't been to Gold Land much
+these days, have you?
+
+298
+00:18:40,516 --> 00:18:41,851
+You've been up to somethin' big.
+
+299
+00:18:41,934 --> 00:18:43,185
+[laughs]
+
+300
+00:18:43,269 --> 00:18:46,689
+If you need any dough,
+just let me know and I can help you out.
+
+301
+00:18:48,023 --> 00:18:49,024
+What am I saying?
+
+302
+00:18:50,401 --> 00:18:52,069
+You don't need petty cash
+from grunts like us.
+
+303
+00:18:52,737 --> 00:18:54,113
+Sorry.
+[chuckles]
+
+304
+00:18:54,196 --> 00:18:55,573
+[sniffs sharply]
+
+305
+00:19:04,206 --> 00:19:05,791
+[gun cocks]
+
+306
+00:19:06,625 --> 00:19:07,626
+The hell is this?
+
+307
+00:19:07,710 --> 00:19:09,712
+What's it look like?
+It's a gun.
+
+308
+00:19:09,795 --> 00:19:11,172
+[Dokyung] A real gun.
+
+309
+00:19:11,255 --> 00:19:12,757
+It's fully loaded.
+Wanna check?
+
+310
+00:19:12,840 --> 00:19:14,049
+What?
+
+311
+00:19:14,884 --> 00:19:16,343
+Look. Look, that exit on the right.
+
+312
+00:19:16,427 --> 00:19:17,678
+I need you to get off there.
+
+313
+00:19:17,762 --> 00:19:19,346
+Captain, why are you...
+
+314
+00:19:19,430 --> 00:19:22,099
+Hey, fucking hell! Hold the wheel!
+Hands on the fucking wheel!
+
+315
+00:19:22,183 --> 00:19:24,518
+[Dokyung] Listen, we're gonna take
+the next exit.
+
+316
+00:19:24,602 --> 00:19:26,812
+-Just take the fucking exit.
+-We can't-we can't do this.
+
+317
+00:19:26,896 --> 00:19:28,272
+I said take the fucking exit, man!
+
+318
+00:19:28,355 --> 00:19:31,609
+[tires squealing]
+
+319
+00:19:31,692 --> 00:19:34,361
+[Moonsu] What the fuck?
+Where are they going?
+
+320
+00:19:34,445 --> 00:19:35,446
+[Moonsu] Who the fuck is driving?
+
+321
+00:19:36,447 --> 00:19:37,448
+[Thug D] Woogy, sir.
+
+322
+00:19:37,531 --> 00:19:38,908
+[Moonsu] Shit.
+STYLE
+::cue()
+
+323
+00:19:38,991 --> 00:19:41,994
+[engine revving]
+
+324
+00:19:42,995 --> 00:19:44,455
+BOSS
+
+325
+00:19:45,289 --> 00:19:48,167
+[Dokyung] Hey. Eyes on the road.
+Keep going.
+
+326
+00:19:49,293 --> 00:19:51,295
+[vibrating continues]
+
+327
+00:19:51,378 --> 00:19:54,715
+I said just focus on driving,
+you fucking dumb ass!
+
+328
+00:19:55,591 --> 00:19:56,592
+Oh, fuck.
+
+329
+00:20:08,395 --> 00:20:09,480
+[tires squeak]
+
+330
+00:20:09,563 --> 00:20:11,190
+[Dokyung] Get the fuck out, you asshole.
+
+331
+00:20:13,484 --> 00:20:14,819
+-Whoa, whoa, whoa, wait, wait.
+-What?
+
+332
+00:20:14,902 --> 00:20:16,779
+Can I at least have my phone? Please?
+
+333
+00:20:16,862 --> 00:20:19,448
+-Yeah. Call them.
+-[grunts]
+
+334
+00:20:20,825 --> 00:20:23,828
+[car engine revving]
+
+335
+00:20:24,411 --> 00:20:25,579
+Shit.
+
+336
+00:20:25,663 --> 00:20:28,249
+Fuckin' asshole!
+Fuck you, man!
+
+337
+00:20:30,835 --> 00:20:32,628
+[door creaks open and shut]
+
+338
+00:20:34,129 --> 00:20:35,130
+What's going on?
+
+339
+00:20:36,215 --> 00:20:37,508
+You even called in the boys.
+
+340
+00:20:38,425 --> 00:20:39,426
+We gotta take care of some meat.
+
+341
+00:20:40,970 --> 00:20:41,971
+A debtor?
+
+342
+00:20:43,722 --> 00:20:44,974
+[Hocheol exhales sharply]
+
+343
+00:20:45,057 --> 00:20:46,392
+Just cutting off parts or butchering?
+
+344
+00:20:46,475 --> 00:20:47,852
+Butcher as usual.
+
+345
+00:20:47,935 --> 00:20:49,186
+[drink pours]
+
+346
+00:20:49,270 --> 00:20:51,522
+Strip him clean
+and hand it all over.
+
+347
+00:20:51,605 --> 00:20:53,482
+We aren't really prepared for that.
+
+348
+00:20:53,566 --> 00:20:54,817
+You could have warned us.
+
+349
+00:20:55,317 --> 00:20:57,152
+-Hey, Seokgu!
+-[Seokgu] Yes, boss.
+
+350
+00:20:57,236 --> 00:20:58,696
+Call Mr. Jin and tell him to come over.
+
+351
+00:20:58,779 --> 00:21:00,698
+-Tell him don't forget his tools.
+-Right away, boss. Yes.
+
+352
+00:21:00,781 --> 00:21:03,868
+[cell phone vibrating]
+
+353
+00:21:03,951 --> 00:21:04,952
+Who's that?
+
+354
+00:21:06,287 --> 00:21:07,288
+[laughing]
+
+355
+00:21:07,371 --> 00:21:08,914
+INCOMING CALL
+CAPTAIN LEE DOKYUNG
+
+356
+00:21:12,418 --> 00:21:14,295
+Hey, Captain.
+Have you arrived yet?
+
+357
+00:21:15,254 --> 00:21:16,255
+Where you at?
+
+358
+00:21:16,839 --> 00:21:18,799
+[Dokyung] Oh, I guess they haven't
+let you know.
+
+359
+00:21:19,508 --> 00:21:21,385
+I'm the one driving
+the funeral van now.
+
+360
+00:21:22,636 --> 00:21:24,597
+And I managed to shake off all your men.
+
+361
+00:21:24,680 --> 00:21:27,266
+The casket is safe,
+so don't worry about that.
+
+362
+00:21:28,058 --> 00:21:29,059
+Captain.
+
+363
+00:21:30,019 --> 00:21:32,187
+What exactly are you saying?
+
+364
+00:21:32,271 --> 00:21:35,274
+I owe Yes Money two hundred million won,
+right?
+
+365
+00:21:35,357 --> 00:21:37,693
+You agree to write it off
+if I help move the casket.
+
+366
+00:21:38,485 --> 00:21:40,070
+[Hocheol] 212 million.
+
+367
+00:21:40,154 --> 00:21:41,697
+Well, close enough.
+
+368
+00:21:42,656 --> 00:21:45,701
+I'm sorry to say,
+I don't think that's gonna cut it.
+
+369
+00:21:47,286 --> 00:21:49,830
+[Dokyung] Also, you really don't want me
+hanging around in Korea, right?
+
+370
+00:21:50,456 --> 00:21:52,207
+I want a billion won in cash.
+
+371
+00:21:53,375 --> 00:21:56,211
+Then I'll return the casket
+and quietly disappear.
+
+372
+00:21:58,672 --> 00:22:00,299
+[Dokyung] I noticed it was pretty heavy.
+
+373
+00:22:01,717 --> 00:22:04,678
+That's a lot of drugs.
+Must be worth at least 10 billion.
+
+374
+00:22:04,762 --> 00:22:07,389
+I'm risking my life
+to transport this thing.
+
+375
+00:22:08,140 --> 00:22:09,475
+I want ten percent.
+
+376
+00:22:09,558 --> 00:22:12,519
+Not a bad deal for shipping cost, right?
+
+377
+00:22:14,146 --> 00:22:15,773
+You made yourself very clear.
+
+378
+00:22:18,317 --> 00:22:19,985
+This is gonna take some time, though.
+
+379
+00:22:20,069 --> 00:22:22,237
+I gotta get approval
+from the chairman first.
+
+380
+00:22:22,988 --> 00:22:23,989
+Then we have to prepare the cash.
+
+381
+00:22:24,073 --> 00:22:26,033
+You can have up until midnight.
+
+382
+00:22:27,534 --> 00:22:29,203
+I'll be waiting at Geumsong.
+
+383
+00:22:29,286 --> 00:22:30,996
+[Dokyung] First I'll check the cash.
+
+384
+00:22:31,538 --> 00:22:33,499
+And then I'll give you
+the location of the van.
+
+385
+00:22:35,000 --> 00:22:37,294
+Okay. Let's do that.
+
+386
+00:22:40,631 --> 00:22:43,050
+[inhales and exhales]
+
+387
+00:22:46,971 --> 00:22:49,974
+[screaming]
+
+388
+00:22:50,808 --> 00:22:53,811
+[labored breathing]
+
+389
+00:22:56,271 --> 00:22:58,023
+Fuckin' bastard!
+
+390
+00:23:00,025 --> 00:23:02,236
+[keyboard clacking]
+
+391
+00:23:02,319 --> 00:23:04,196
+[cell phone vibrating]
+
+392
+00:23:12,538 --> 00:23:14,415
+[groans]
+
+393
+00:23:15,416 --> 00:23:18,210
+[Jinman] Kim Jinman,
+Jeongsan Police Investigations.
+
+394
+00:23:18,877 --> 00:23:20,462
+[Hocheol] It's Park Hocheol.
+
+395
+00:23:20,546 --> 00:23:22,548
+I need you to track a phone for me.
+
+396
+00:23:22,631 --> 00:23:25,217
+[Jinman] Whose phone?
+What for?
+
+397
+00:23:25,300 --> 00:23:27,302
+That's none of your business.
+You got until midnight.
+
+398
+00:23:27,386 --> 00:23:29,138
+[Jinman] Oh, come on.
+
+399
+00:23:29,221 --> 00:23:31,473
+You know that's not the kind
+of thing I can do so easily.
+
+400
+00:23:32,391 --> 00:23:34,977
+[Jinman] I mean, I have to get
+a warrant and everything.
+
+401
+00:23:35,060 --> 00:23:37,062
+[Jinman] It'd be illegal without one.
+
+402
+00:23:37,813 --> 00:23:39,440
+It involves the Chairman.
+
+403
+00:23:40,315 --> 00:23:42,776
+[exhales sharply]
+Name and phone number.
+
+404
+00:23:43,318 --> 00:23:44,319
+[Hocheol] Lee Dokyung.
+
+405
+00:23:45,154 --> 00:23:46,613
+[Jinman] Lee Dokyung.
+STYLE
+::cue()
+
+406
+00:23:54,830 --> 00:23:57,166
+[cell phone vibrating]
+
+407
+00:23:57,249 --> 00:23:58,208
+MOBILE PHONE
+DOKYUNG
+
+408
+00:23:59,126 --> 00:24:00,127
+Hello?
+
+409
+00:24:02,921 --> 00:24:05,924
+[crickets chirping]
+
+410
+00:24:18,729 --> 00:24:20,022
+[car engine revving]
+
+411
+00:24:31,116 --> 00:24:34,119
+[crickets chirping loudly]
+
+412
+00:24:41,126 --> 00:24:44,129
+[erratic breathing]
+
+413
+00:24:53,138 --> 00:24:55,557
+[headlights clicking]
+
+414
+00:24:56,850 --> 00:24:58,602
+[door scrapes]
+
+415
+00:25:10,906 --> 00:25:13,742
+[Dokyung] Heeju. Heeju.
+
+416
+00:25:13,826 --> 00:25:15,369
+-Dokyung.
+-[Dokyung] Heeju.
+
+417
+00:25:18,247 --> 00:25:20,040
+[Dokyung] Get in.
+
+418
+00:25:20,124 --> 00:25:21,416
+[both breathing heavily]
+
+419
+00:25:21,500 --> 00:25:22,709
+Oh, Heeju!
+
+420
+00:25:22,793 --> 00:25:23,961
+It's okay. It's okay.
+
+421
+00:25:24,044 --> 00:25:25,671
+[Dokyung] You must have been scared.
+
+422
+00:25:25,754 --> 00:25:26,922
+[Heeju] Mm-hmm.
+
+423
+00:25:27,005 --> 00:25:28,006
+[Dokyung] It's all right.
+
+424
+00:25:30,717 --> 00:25:32,261
+-You left your phone, right?
+-Mm-hmm.
+
+425
+00:25:34,388 --> 00:25:36,807
+[Dokyung] From now on
+we only use these, okay?
+
+426
+00:25:36,890 --> 00:25:39,935
+[Dokyung] I need you to listen
+to me very carefully, Heeju.
+
+427
+00:25:40,018 --> 00:25:41,645
+I'm gonna go meet up
+with someone right now.
+
+428
+00:25:41,728 --> 00:25:42,980
+[Dokyung] They're gonna give me
+some money.
+
+429
+00:25:43,647 --> 00:25:44,648
+[Dokyung] It's a lot.
+
+430
+00:25:44,731 --> 00:25:46,400
+Enough for us to leave
+this place for good.
+
+431
+00:25:46,483 --> 00:25:47,776
+A billion won.
+
+432
+00:25:47,860 --> 00:25:50,529
+-Huh?
+-[Dokyung] I'll be right back, okay?
+
+433
+00:25:50,612 --> 00:25:51,947
+You stay here and wait in the van.
+
+434
+00:25:52,030 --> 00:25:53,282
+[Dokyung] Then when I call you
+on this phone,
+
+435
+00:25:53,365 --> 00:25:54,908
+all you have to do is bring the van
+to the place I tell you.
+
+436
+00:25:54,992 --> 00:25:56,785
+Wait, what-what are you talking...
+
+437
+00:25:56,869 --> 00:25:58,662
+[Dokyung] It's not far.
+Just listen to me!
+
+438
+00:25:58,745 --> 00:25:59,746
+If I don't...
+
+439
+00:26:00,831 --> 00:26:03,167
+If you haven't received a call
+from me by midnight,
+
+440
+00:26:03,250 --> 00:26:05,085
+then take this van and run away.
+
+441
+00:26:05,169 --> 00:26:06,753
+[Dokyung] And ditch the phone.
+
+442
+00:26:07,880 --> 00:26:10,883
+As long as you have that casket,
+they won't be able to hurt me.
+
+443
+00:26:10,966 --> 00:26:12,634
+Who are you meeting with?
+
+444
+00:26:12,718 --> 00:26:15,137
+And what the hell is in that thing?
+
+445
+00:26:15,220 --> 00:26:17,598
+-Seriously, just tell me what's going on!
+-It'll all be over soon.
+
+446
+00:26:17,681 --> 00:26:19,433
+-You don't need to know about this, Heeju.
+-[Heeju] Why?
+
+447
+00:26:19,516 --> 00:26:20,893
+What aren't you telling me?
+
+448
+00:26:24,646 --> 00:26:25,981
+[Heeju] Dokyung.
+
+449
+00:26:26,064 --> 00:26:29,610
+[Heeju] Listen, I will do exactly
+as you say.
+
+450
+00:26:29,693 --> 00:26:31,904
+That's exactly why I need to know.
+
+451
+00:26:31,987 --> 00:26:33,655
+[Heeju] What am I doing and why?
+
+452
+00:26:34,239 --> 00:26:35,240
+[Heeju exhales]
+
+453
+00:26:35,324 --> 00:26:36,742
+[Dokyung sighs]
+
+454
+00:26:37,492 --> 00:26:38,952
+I'll explain everything later.
+
+455
+00:26:39,745 --> 00:26:41,163
+When it's over,
+
+456
+00:26:41,246 --> 00:26:43,165
+the two of us should go to France.
+
+457
+00:26:43,248 --> 00:26:44,750
+A fresh start.
+We'll forget all this.
+
+458
+00:26:44,833 --> 00:26:48,086
+We can finally be happy. Okay?
+
+459
+00:26:48,170 --> 00:26:49,463
+I'm begging you.
+
+460
+00:26:50,464 --> 00:26:51,465
+Please.
+
+461
+00:26:53,884 --> 00:26:54,885
+[exhales]
+
+462
+00:26:59,431 --> 00:27:01,016
+[exhales sharply]
+
+463
+00:27:01,099 --> 00:27:02,726
+Thank you.
+
+464
+00:27:03,894 --> 00:27:06,605
+[Dokyung] I'll be back.
+Just be careful.
+
+465
+00:27:09,733 --> 00:27:11,109
+[car door opens]
+
+466
+00:27:13,403 --> 00:27:14,404
+[car door closes]
+
+467
+00:27:15,697 --> 00:27:19,451
+[♪ dramatic music]
+
+468
+00:27:20,535 --> 00:27:21,620
+[exhales]
+
+469
+00:27:22,746 --> 00:27:25,749
+[crickets chirping]
+STYLE
+::cue()
+
+470
+00:27:48,647 --> 00:27:50,148
+[car engine revving]
+
+471
+00:27:50,232 --> 00:27:51,400
+[grunts]
+
+472
+00:27:51,483 --> 00:27:53,151
+[tires squealing]
+
+473
+00:27:54,111 --> 00:27:55,112
+[gasps]
+
+474
+00:28:07,833 --> 00:28:09,584
+Shit.
+
+475
+00:28:10,961 --> 00:28:12,671
+[Gitae] He must be dead, right?
+
+476
+00:28:12,754 --> 00:28:14,965
+I hit him pretty damn hard.
+
+477
+00:28:20,387 --> 00:28:23,557
+[Hocheol] Hey! Go over
+and search every inch of the place!
+
+478
+00:28:23,640 --> 00:28:25,142
+It's there somewhere.
+
+479
+00:28:25,809 --> 00:28:28,520
+-[Gitae] Get going! Run!
+-Ah, fuck.
+
+480
+00:28:30,397 --> 00:28:33,400
+[whimpering]
+
+481
+00:28:35,360 --> 00:28:36,611
+[Thug E] Hurry up.
+
+482
+00:28:41,158 --> 00:28:44,161
+[tires squealing]
+
+483
+00:28:52,753 --> 00:28:54,046
+[exhales sharply]
+
+484
+00:28:55,172 --> 00:28:56,840
+[doors creaking]
+
+485
+00:28:57,674 --> 00:28:59,176
+[keys jingling]
+
+486
+00:29:03,013 --> 00:29:04,931
+[creaking]
+
+487
+00:29:07,642 --> 00:29:10,645
+[gasping and crying]
+
+488
+00:29:11,855 --> 00:29:15,275
+[cell phone vibrating]
+
+489
+00:29:21,114 --> 00:29:23,617
+[Dokyung breathing heavily]
+
+490
+00:29:23,700 --> 00:29:26,953
+-[Dokyung] Run away, Heeju.
+-Dokyung.
+
+491
+00:29:27,788 --> 00:29:28,830
+[Dokyung] I'm sorry.
+
+492
+00:29:28,914 --> 00:29:31,625
+What? No, no, no.
+Dokyung, are you there?
+
+493
+00:29:32,459 --> 00:29:33,794
+Please don't go!
+
+494
+00:29:33,877 --> 00:29:35,837
+Dokyung, are you there?
+Please don't go!
+
+495
+00:29:35,921 --> 00:29:37,339
+Don't...
+
+496
+00:29:38,673 --> 00:29:42,260
+[crying]
+
+497
+00:29:55,774 --> 00:29:56,775
+[exhales]
+
+498
+00:30:15,794 --> 00:30:18,797
+[crying]
+
+499
+00:30:19,923 --> 00:30:21,133
+[door rattling]
+
+500
+00:30:22,300 --> 00:30:25,303
+[scraping]
+
+501
+00:31:06,303 --> 00:31:09,306
+[yanking on door handle]
+
+502
+00:31:17,439 --> 00:31:20,442
+[phone trilling]
+
+503
+00:31:21,109 --> 00:31:22,444
+Sir, I found the van.
+
+504
+00:31:23,278 --> 00:31:26,281
+Yeah, it's in the warehouse
+at the top on the right.
+
+505
+00:31:27,324 --> 00:31:28,742
+[whimpers]
+
+506
+00:31:29,701 --> 00:31:31,077
+Okay, you stay put.
+
+507
+00:31:32,162 --> 00:31:33,330
+Hey, boss!
+
+508
+00:31:33,413 --> 00:31:34,748
+[Gitae] They found the van!
+
+509
+00:31:34,831 --> 00:31:37,542
+[Gitae] We need the keys!
+Check and see if the keys are with him.
+STYLE
+::cue()
+
+510
+00:31:43,256 --> 00:31:44,382
+No keys here!
+
+511
+00:31:45,717 --> 00:31:47,636
+Someone's in the van!
+
+512
+00:31:47,719 --> 00:31:48,929
+Oh, fuck!
+
+513
+00:31:49,012 --> 00:31:51,640
+[Gitae] Hey, block the van!
+Hurry! Move it! Move it!
+
+514
+00:31:52,682 --> 00:31:55,143
+[tools rattling]
+
+515
+00:31:58,939 --> 00:32:01,942
+[gasping]
+
+516
+00:32:02,025 --> 00:32:03,151
+[grunts]
+
+517
+00:32:03,235 --> 00:32:04,444
+[glass crackling]
+
+518
+00:32:04,527 --> 00:32:06,238
+[grunts]
+
+519
+00:32:06,321 --> 00:32:07,447
+[whimpers]
+
+520
+00:32:07,530 --> 00:32:08,531
+[grunts]
+
+521
+00:32:12,160 --> 00:32:13,620
+[car engine turns over]
+
+522
+00:32:13,703 --> 00:32:15,247
+-[grunts]
+-[Heeju gasping]
+
+523
+00:32:15,330 --> 00:32:17,332
+[car engine revving]
+
+524
+00:32:17,415 --> 00:32:19,334
+[tires squealing]
+
+525
+00:32:19,417 --> 00:32:21,253
+[groaning]
+
+526
+00:32:23,171 --> 00:32:25,674
+[screams]
+
+527
+00:32:25,757 --> 00:32:28,510
+[all shouting]
+
+528
+00:32:39,604 --> 00:32:40,480
+[tires squealing]
+
+529
+00:32:40,563 --> 00:32:43,358
+[shouting]
+
+530
+00:32:43,441 --> 00:32:45,193
+[all shouting]
+
+531
+00:32:45,277 --> 00:32:46,653
+[crashing]
+
+532
+00:32:46,736 --> 00:32:47,946
+[shouts]
+
+533
+00:32:48,029 --> 00:32:50,282
+[breathing heavily]
+
+534
+00:32:52,158 --> 00:32:53,576
+[groaning]
+
+535
+00:32:53,660 --> 00:32:57,205
+[Heeju whimpering]
+
+536
+00:32:57,289 --> 00:32:58,957
+[grunting]
+
+537
+00:32:59,833 --> 00:33:01,209
+[whimpering]
+
+538
+00:33:01,293 --> 00:33:02,794
+[engine revving]
+
+539
+00:33:03,753 --> 00:33:04,629
+[car horn honking]
+
+540
+00:33:04,713 --> 00:33:06,923
+[all shouting]
+
+541
+00:33:07,007 --> 00:33:08,550
+[whimpers]
+[car horn honking]
+
+542
+00:33:09,968 --> 00:33:10,969
+[shouts]
+
+543
+00:33:11,761 --> 00:33:12,762
+[wails]
+
+544
+00:33:13,305 --> 00:33:14,889
+[tires squealing]
+
+545
+00:33:21,813 --> 00:33:22,856
+[metal crashing]
+
+546
+00:33:22,939 --> 00:33:24,065
+[shouting]
+
+547
+00:33:24,149 --> 00:33:26,151
+[clanging]
+
+548
+00:33:29,863 --> 00:33:32,866
+[Heeju groans]
+
+549
+00:33:35,535 --> 00:33:38,121
+[both groaning]
+
+550
+00:33:39,372 --> 00:33:42,042
+[grunting]
+
+551
+00:33:42,125 --> 00:33:45,795
+-[Hocheol] Fuck.
+-[Gitae] Boss! What the...
+
+552
+00:33:45,879 --> 00:33:47,756
+[both groaning]
+
+553
+00:33:49,215 --> 00:33:52,218
+[groaning]
+
+554
+00:33:52,302 --> 00:33:55,180
+[whimpering]
+
+555
+00:33:57,349 --> 00:33:59,351
+[breathing heavily]
+
+556
+00:33:59,434 --> 00:34:01,978
+[gasping]
+
+557
+00:34:03,772 --> 00:34:05,607
+[tires squealing]
+
+558
+00:34:07,442 --> 00:34:08,943
+[grunts]
+
+559
+00:34:09,027 --> 00:34:11,446
+[engine revving]
+
+560
+00:34:15,992 --> 00:34:17,285
+[Hocheol] Fuck!
+
+561
+00:34:23,166 --> 00:34:24,167
+[groans]
+
+562
+00:34:24,250 --> 00:34:25,585
+[gasps]
+
+563
+00:34:26,544 --> 00:34:28,088
+[grunting]
+
+564
+00:34:28,171 --> 00:34:29,506
+[roof creaks]
+
+565
+00:34:31,174 --> 00:34:32,384
+[groans]
+
+566
+00:34:32,467 --> 00:34:35,470
+[creaking]
+
+567
+00:34:37,222 --> 00:34:39,724
+[Hocheol grunting]
+
+568
+00:34:39,808 --> 00:34:41,059
+[panicked breathing]
+
+569
+00:34:46,022 --> 00:34:47,440
+[glass cracks]
+[screams]
+
+570
+00:34:48,191 --> 00:34:49,192
+[grunts]
+
+571
+00:34:50,443 --> 00:34:51,486
+[tires squeal]
+
+572
+00:34:51,569 --> 00:34:52,737
+[Heeju screams]
+
+573
+00:35:01,162 --> 00:35:02,163
+[grunts]
+
+574
+00:35:03,665 --> 00:35:05,500
+[gasping]
+
+575
+00:35:06,876 --> 00:35:08,128
+[shouting]
+
+576
+00:35:08,211 --> 00:35:09,671
+[screams]
+
+577
+00:35:12,132 --> 00:35:12,924
+[screams]
+
+578
+00:35:13,883 --> 00:35:16,261
+[groaning]
+
+579
+00:35:20,181 --> 00:35:21,516
+[grunts]
+Shit.
+
+580
+00:35:21,599 --> 00:35:23,226
+[groaning]
+
+581
+00:35:23,309 --> 00:35:25,979
+[Hocheol breathing heavily]
+STYLE
+::cue()
+
+582
+00:35:31,985 --> 00:35:34,988
+[rain pattering]
+
+583
+00:35:36,906 --> 00:35:39,909
+[breathing heavily]
+
+584
+00:35:46,875 --> 00:35:48,543
+[cell phone vibrating]
+
+585
+00:35:50,670 --> 00:35:52,589
+[gasping]
+
+586
+00:35:54,632 --> 00:35:57,886
+[vibrating continues]
+
+587
+00:36:01,389 --> 00:36:02,974
+[Hocheol] Hey, who are you?
+
+588
+00:36:03,057 --> 00:36:04,893
+You fucking bastard.
+
+589
+00:36:04,976 --> 00:36:07,812
+Ah, actually, actually, you know what?
+Forget it.
+
+590
+00:36:07,896 --> 00:36:10,064
+I don't really care who you are.
+It doesn't matter.
+
+591
+00:36:11,816 --> 00:36:13,568
+And I won't try to find out, either.
+
+592
+00:36:14,110 --> 00:36:17,572
+Just give me back the van.
+Turn around and come back.
+
+593
+00:36:17,655 --> 00:36:19,824
+[Hocheol] You can have
+the money I promised Dokyung.
+
+594
+00:36:21,075 --> 00:36:22,535
+I can send it right away.
+
+595
+00:36:24,954 --> 00:36:27,582
+[Dokyung] If you haven't received
+a call from me by midnight,
+
+596
+00:36:27,665 --> 00:36:29,542
+then I need you to take this van
+and run away.
+
+597
+00:36:29,626 --> 00:36:31,336
+And ditch this phone.
+
+598
+00:36:31,419 --> 00:36:33,213
+As long as you have that casket,
+they won't be able to hurt me.
+
+599
+00:36:34,923 --> 00:36:37,133
+[casket rattling]
+
+600
+00:36:38,134 --> 00:36:39,761
+[Hocheol] You can't hide from me,
+you stupid fuck,
+
+601
+00:36:39,844 --> 00:36:40,929
+so just hand it over!
+
+602
+00:36:42,680 --> 00:36:44,307
+I'm gonna find you tonight anyway.
+
+603
+00:36:49,187 --> 00:36:50,271
+Then you're done.
+
+604
+00:36:51,231 --> 00:36:54,234
+[gasping]
+
+605
+00:37:03,785 --> 00:37:04,786
+[phone beeps]
+
+606
+00:37:05,954 --> 00:37:07,497
+[exhales]
+
+607
+00:37:07,580 --> 00:37:08,581
+[cell phone trills]
+
+608
+00:37:08,665 --> 00:37:10,041
+[Female Operator] Your call
+has been forwarded
+
+609
+00:37:10,124 --> 00:37:12,293
+-to an automated voice messaging system.
+-[exhales]
+
+610
+00:37:12,377 --> 00:37:14,295
+[Female Operator] The number you
+have dialed is not available.
+
+611
+00:37:14,796 --> 00:37:15,797
+Son of a bitch.
+
+612
+00:37:20,426 --> 00:37:23,429
+[whimpering]
+
+613
+00:37:32,564 --> 00:37:35,567
+[rain pattering on car roof]
+
+614
+00:38:00,466 --> 00:38:01,926
+[tires squeak]
+
+615
+00:38:10,894 --> 00:38:12,437
+[car passing]
+
+616
+00:38:22,822 --> 00:38:24,157
+[exhales]
+
+617
+00:38:27,744 --> 00:38:28,745
+[car passes]
+
+618
+00:38:33,374 --> 00:38:35,043
+[exhales]
+
+619
+00:38:42,091 --> 00:38:43,760
+[thunder cracks]
+STYLE
+::cue()
+
+620
+00:39:22,340 --> 00:39:25,301
+[thunder crashes loudly]
+
+621
+00:39:31,766 --> 00:39:33,810
+[Heeju] Why did it have to be here?
+
+622
+00:39:33,893 --> 00:39:36,354
+DAD! BE SAFE AGAIN TODAY
+
+623
+00:39:36,437 --> 00:39:38,523
+[Heeju] I thought I'd never see
+this place again.
+
+624
+00:39:44,153 --> 00:39:48,449
+At first, I didn't expect my path
+would be like this.
+
+625
+00:39:49,701 --> 00:39:53,329
+I only wanted to escape from my miserable
+and unhappy life.
+
+626
+00:39:54,205 --> 00:39:55,456
+Get away from it all.
+
+627
+00:39:59,335 --> 00:40:00,336
+[thunder cracks]
+
+628
+00:40:00,420 --> 00:40:05,299
+[Heeju] I was just following this
+small ray of light I saw before me.
+
+629
+00:40:06,092 --> 00:40:07,802
+Hoping that if only I could reach it...
+
+630
+00:40:09,137 --> 00:40:11,431
+...I could escape from all this darkness.
+
+631
+00:40:13,057 --> 00:40:14,767
+[thunder cracks]
+[9-Year-Old Heeju] Mongsil, wait!
+
+632
+00:40:14,851 --> 00:40:17,729
+[dog yapping]
+
+633
+00:40:18,438 --> 00:40:19,731
+Mongsil?
+
+634
+00:40:20,940 --> 00:40:22,150
+[distant barking]
+
+635
+00:40:22,233 --> 00:40:23,776
+Mongsil!
+
+636
+00:40:32,493 --> 00:40:34,120
+Mongsil, here!
+
+637
+00:40:38,958 --> 00:40:39,959
+[9-Year-Old Heeju] Mongsil!
+
+638
+00:40:41,210 --> 00:40:42,336
+[Woogy] Heeju.
+
+639
+00:40:43,921 --> 00:40:45,381
+[9-Year-Old Heeju] Mongsil.
+
+640
+00:40:48,634 --> 00:40:49,969
+[9-Year-Old Heeju] Mongsil.
+
+641
+00:40:53,931 --> 00:40:55,099
+Where are you?
+
+642
+00:40:55,183 --> 00:40:57,852
+[distant dog yapping]
+
+643
+00:40:57,935 --> 00:40:59,979
+PROCEED SLOWLY
+
+644
+00:41:00,063 --> 00:41:01,606
+Mongsil?
+
+645
+00:41:06,360 --> 00:41:07,653
+Are you there?
+
+646
+00:41:12,158 --> 00:41:13,493
+[9-Year-Old Heeju grunts]
+
+647
+00:41:16,079 --> 00:41:17,288
+[9-Year-Old Heeju gasps]
+
+648
+00:41:24,796 --> 00:41:26,255
+[9-Year-Old Heeju grunts]
+
+649
+00:41:30,635 --> 00:41:31,844
+[distant dog barks]
+
+650
+00:41:43,272 --> 00:41:45,274
+[breathing heavily]
+
+651
+00:41:47,485 --> 00:41:48,694
+[grunts]
+
+652
+00:41:48,778 --> 00:41:51,614
+[rocks clattering]
+
+653
+00:41:59,413 --> 00:42:00,873
+[gasps]
+
+654
+00:42:15,471 --> 00:42:17,265
+Mongsil.
+
+655
+00:42:19,100 --> 00:42:20,601
+Mommy.
+
+656
+00:42:21,936 --> 00:42:23,688
+[crying]
+
+657
+00:42:23,771 --> 00:42:24,772
+[Heeju] Heeju.
+
+658
+00:42:28,943 --> 00:42:29,944
+Heeju.
+
+659
+00:42:31,696 --> 00:42:33,072
+Hurry up now.
+
+660
+00:42:33,156 --> 00:42:35,199
+You have to run away from here.
+
+661
+00:42:38,578 --> 00:42:39,787
+[erratic breathing]
+
+662
+00:42:51,299 --> 00:42:53,885
+[Heeju] I'm still not sure
+what I saw back then.
+
+663
+00:42:53,968 --> 00:42:56,179
+Was it all a dream?
+
+664
+00:42:56,262 --> 00:43:00,183
+Or was it a memory I made up
+for myself when I grew up?
+
+665
+00:43:05,897 --> 00:43:07,440
+[labored breathing]
+
+666
+00:43:10,151 --> 00:43:12,486
+[grunting]
+STYLE
+::cue()
+
+667
+00:43:12,570 --> 00:43:15,031
+RESTRICTED AREA
+
+668
+00:43:15,114 --> 00:43:18,034
+[water dripping]
+
+669
+00:43:18,117 --> 00:43:21,621
+[car approaching]
+
+670
+00:43:28,377 --> 00:43:29,795
+PROCEED SLOWLY
+
+671
+00:43:29,879 --> 00:43:31,881
+COMPLY AND DRIVE SLOWLY
+
+672
+00:43:41,974 --> 00:43:45,019
+INCLINED SHAFT 8, SECTION 2
+102ML
+
+673
+00:44:14,173 --> 00:44:15,549
+[brakes creak]
+
+674
+00:44:18,511 --> 00:44:19,887
+[car engine shuts off]
+
+675
+00:44:23,307 --> 00:44:26,310
+[breathing deeply]
+
+676
+00:44:31,691 --> 00:44:33,150
+[groans]
+
+677
+00:44:36,070 --> 00:44:38,322
+[Heeju] How did it all end up like this?
+
+678
+00:44:39,448 --> 00:44:42,785
+Happy. That's all I ever wanted.
+
+679
+00:44:43,661 --> 00:44:45,746
+To be happy like everyone else.
+
+680
+00:44:46,414 --> 00:44:47,415
+[exhales sharply]
+
+681
+00:44:47,498 --> 00:44:48,958
+[keys jingling]
+
+682
+00:45:01,429 --> 00:45:02,596
+[grunts]
+
+683
+00:45:06,017 --> 00:45:09,020
+[labored breathing]
+
+684
+00:45:36,088 --> 00:45:38,924
+As long as you have that casket,
+they won't be able to hurt me.
+
+685
+00:45:39,800 --> 00:45:42,345
+[Dokyung] I need you to take this van
+and run away.
+
+686
+00:45:57,318 --> 00:45:58,652
+[car door opens]
+
+687
+00:46:36,607 --> 00:46:37,983
+[lid clatters]
+
+688
+00:46:38,067 --> 00:46:39,777
+[deep breathing]
+
+689
+00:46:46,659 --> 00:46:48,828
+[exhales and inhales deeply]
+
+690
+00:46:50,454 --> 00:46:51,664
+[fabric pulls]
+
+691
+00:47:03,342 --> 00:47:04,927
+[gasps]
+
+692
+00:47:05,010 --> 00:47:06,929
+[bars clinking]
+
+693
+00:47:07,012 --> 00:47:08,139
+[clangs]
+
+694
+00:47:15,980 --> 00:47:19,275
+[Heeju] If I hadn't come here that day...
+
+695
+00:47:22,153 --> 00:47:26,866
+If I hadn't seen those gold bars
+inside that casket,
+
+696
+00:47:26,949 --> 00:47:28,367
+would I have been happy?
+
+697
+00:47:30,578 --> 00:47:34,748
+Or would my life be the same,
+dark as always,
+
+698
+00:47:34,832 --> 00:47:36,625
+just like that mine shaft?
+
+699
+00:47:36,709 --> 00:47:39,712
+[♪ suspenseful music]
+
